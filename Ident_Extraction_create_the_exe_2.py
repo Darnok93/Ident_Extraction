@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 23 06:56:28 2024
 
-@author: Konrad Wranik
+@author: KW
 
 Title: Improved Ident_Extraction
 """
